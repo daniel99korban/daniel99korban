@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Java, Dart and Flutter
 - 👯 I’m looking to collaborate on web projects
-- 💬 Ask me about html and css
 - ⚡ Fun fact: it took me two weeks to discover that the error was a semicolon in the wrong place
 <div>
  <a href="https://www.instagram.com/daniel_korban_l/" target="_blank"><img src="https://img.shields.io/badge/Instagram-730F8A?style=for-the-badge&logo=instagram&logoColor=white"/></a>
