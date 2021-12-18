@@ -18,7 +18,8 @@
 
 ##
 <div>
- <a href="https://github.com/danielkorban"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" height="40px"/></a>
+ <a href="https://github.com/danielkorban">oooooooo</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" height="40px"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40px" height="40px"/>
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px"/>
