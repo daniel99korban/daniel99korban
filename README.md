@@ -1,6 +1,6 @@
 ### Olá! Sou o Daniel Korban
 
-- 🌱 I’m currently learning Java, Dart and Flutter
+- 🌱 I’m currently learning Java and Web development 
 - 👯 I’m looking to collaborate on web projects
 - ⚡ Fun fact: it took me two weeks to discover that the error was a semicolon in the wrong place
 <div>
