@@ -1,4 +1,4 @@
-### Olá! Sou o Daniel Korban
+### Hi! I'm Daniel Korban
 
 - 🌱 I’m currently learning Java and Web development 
 - 👯 I’m looking to collaborate on web projects
