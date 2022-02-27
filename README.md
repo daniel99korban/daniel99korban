@@ -1,8 +1,8 @@
-### Hi! I'm Daniel Korban
+### Oi! Eu sou Daniel Korban
 
-- 🌱 I’m currently learning Java and Web development 
-- 👯 I’m looking to collaborate on web projects
-- ⚡ Fun fact: it took me two weeks to discover that the error was a semicolon in the wrong place
+- 🌱 Atualmente estou aprendendo Java e desenvolvimento Web com outras tecnologias de backend
+- 👯 Estou procurando colaborar em projetos da web
+- ⚡ Curiosidade: ja levei duas semanas para descobrir que o erro era um ponto e vírgula no lugar errado aff
 <div>
  <a href="https://www.instagram.com/daniel_korban_l/"><img src="https://img.shields.io/badge/Instagram-730F8A?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/daniel-lima-azevedo-973a45227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
