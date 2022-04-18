@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo Java e desenvolvimento Web com outras tecnologias de backend
 - 👯 Estou procurando colaborar em projetos da web
-- ⚡ Curiosidade: ja levei duas semanas para descobrir que o erro era um ponto e vírgula no lugar errado aff
+- ⚡ Curiosidade: ?
 <div>
  <a href="https://www.instagram.com/daniel_korban_l/"><img src="https://img.shields.io/badge/Instagram-730F8A?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/daniel-lima-azevedo-973a45227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
