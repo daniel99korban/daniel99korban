@@ -11,7 +11,7 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/users/daniel99korban/achievements/pull-shark">
+  <img src="https://github.com/users/daniel99korban/achievements/pull-shark"/>
   <a href="https://github.com/danielkorban">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel99korban&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel99korban&layout=compact&langs_count=7&theme=synthwave"/>
