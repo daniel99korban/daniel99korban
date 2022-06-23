@@ -8,10 +8,9 @@
  <a href="https://www.linkedin.com/in/daniel-lima-973a45227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="mailto:daniel99korban@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-
+<img src="https://github.com/users/daniel99korban/achievements/pull-shark"/>
 ##
 <div align="center">
-  <img src="https://github.com/users/daniel99korban/achievements/pull-shark"/>
   <a href="https://github.com/danielkorban">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel99korban&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel99korban&layout=compact&langs_count=7&theme=synthwave"/>
