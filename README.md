@@ -9,12 +9,6 @@
  <a href="mailto:daniel99korban@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<div class="d-flex flex-wrap">
-    <a class="position-relative" href="/daniel99korban?achievement=pull-shark&tab=achievements">
-       <img class="achievement-badge-sidebar" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" data-hovercard-type="achievement" data-hovercard-url="/users/daniel99korban/achievements/pull-shark/detail?hovercard=1" alt="Achievement: Pull Shark" data-view-component="true" width="64">
-    </a>
-</div>
-
 ##
 <div align="center">
   <a href="https://github.com/danielkorban">
