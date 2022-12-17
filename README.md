@@ -7,12 +7,9 @@
 </div>
 
 ##
-<div align="center">
-  <a href="https://github.com/danielkorban">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel99korban&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel99korban&layout=compact&langs_count=5&theme=synthwave"/>
-</div>
-
+ ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel99korban&show_icons=true&count_private=true&theme=radical)
+ ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel99korban&layout=compact&langs_count=5&theme=radical)
+ 
 ##
  [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/daniel99korban)
  [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/daniel99korban)
