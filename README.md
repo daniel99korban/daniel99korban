@@ -7,7 +7,7 @@
 </div>
 
 ##
- ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel99korban&show_icons=true&show_pullrequests=true&count_private=true&theme=radical)
+ ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel99korban&show_icons=true&count_private=true&theme=radical)
  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel99korban&layout=compact&langs_count=5&theme=radical)
  
 ## Tecnologias que ultilizo
