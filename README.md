@@ -24,4 +24,4 @@
  [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/daniel99korban)
  [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/daniel99korban)
 
-Atualmente estou estudando Java e desenvolvimento Web com outras tecnologias de Back-end.
+Atualmente estou estudando arquitetura de software.
