@@ -8,20 +8,11 @@
 
 ##
  ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel99korban&show_icons=true&count_private=true&theme=radical)
- ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel99korban&layout=compact&langs_count=8&theme=radical)
  
-## Tecnologias que ultilizo
- [![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/daniel99korban)
- [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/daniel99korban)
- [![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/daniel99korban)
- [![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/daniel99korban)
-[![react-native](https://img.shields.io/badge/React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23000000)](https://github.com/daniel99korban)
- [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/daniel99korban)
- [![linguagem c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/daniel99korban)
- [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/daniel99korban)
- [![Spring framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/daniel99korban)
+## Desenvolvimento Back-end
  [![Laravel framework](https://img.shields.io/badge/Laravel-0F202D?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/daniel99korban)
- [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/daniel99korban)
  [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/daniel99korban)
+ [![pssql](https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/daniel99korban)
+ [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/daniel99korban)
 
-Atualmente estou estudando arquitetura de software.
+Atualmente desenvolvo projetos pensando em arquitetura de software.
