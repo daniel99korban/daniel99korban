@@ -1,4 +1,4 @@
-### Olá! Eu sou o Daniel Korban 🖐️
+### Olá! Eu sou o Daniel Korbann 🖐️
 
 <div>
  <a href="https://www.instagram.com/daniel_korban_l/"><img src="https://img.shields.io/badge/Instagram-730F8A?style=for-the-badge&logo=instagram&logoColor=white"/></a>
