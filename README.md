@@ -12,6 +12,7 @@
 ## Desenvolvimento Back-End
 
  [![Laravel framework](https://img.shields.io/badge/Laravel-0F202D?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/daniel99korban)
+ [![NestJS](https://img.shields.io/badge/NestJs-FF060E?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/daniel99korban)
  [![Spring framework](https://img.shields.io/badge/Spring-6BB13D?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/daniel99korban)
  
  #### DB
@@ -22,6 +23,7 @@
  #### Testes
  
  [![junit](https://img.shields.io/badge/Junit-6BB13D?style=for-the-badge&logo=junit&logoColor=white)](https://github.com/daniel99korban)
+ [![Jest](https://img.shields.io/badge/Jest-FC68BE?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/daniel99korban)
  [![PHPUnit](https://img.shields.io/badge/PhpUnit-6B66D5?style=for-the-badge&logo=phpunit&logoColor=white)](https://github.com/daniel99korban)
  
  ### Arquitetura de Software
