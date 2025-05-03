@@ -1,4 +1,6 @@
 ### Olá! Eu sou o Daniel Korban 🖐️
+- Software Developer na [@StarBlinkOficial](https://github.com/StarBlinkOficial)  
+- Dev Backend na [@mdkstudioslz](https://github.com/mdkstudioslz)
 
 <div>
  <a href="https://www.linkedin.com/in/daniel-lima-973a45227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
